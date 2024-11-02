@@ -1,0 +1,8 @@
+[package]
+name = "iso_quant"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitvec = "1.0.1"
+deku = "0.18.1"
